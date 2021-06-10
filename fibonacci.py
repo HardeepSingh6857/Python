@@ -20,7 +20,7 @@ while(f < 100):
     f = a + b
     a = b 
     b = f
-    #if(f > 100):
-        #break
+    if(f > 100):
+        break
     print(f)
     
